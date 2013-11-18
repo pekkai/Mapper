@@ -1,0 +1,3097 @@
+{
+  "Siri" : {
+    "ServiceDelivery" : {
+      "ResponseTimestamp" : 1381248203204,
+      "ProducerRef" : {
+        "value" : "IJ2010"
+      },
+      "Status" : true,
+      "MoreData" : false,
+      "VehicleMonitoringDelivery" : [ {
+        "VehicleActivity" : [ {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "26"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1830"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Kaarila",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Multisilta",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7543327,
+              "Latitude" : 61.4501392
+            },
+            "Bearing" : 216.0,
+            "Delay" : "P0Y0M0DT0H0M14.000S",
+            "VehicleRef" : {
+              "value" : "TKL_028"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "29"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Aitolahdentie 36",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Korvenkatu 44",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8651588,
+              "Latitude" : 61.4935035
+            },
+            "Bearing" : 167.0,
+            "Delay" : "P0Y0M0DT0H5M10.000S",
+            "VehicleRef" : {
+              "value" : "TKL_272"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "29"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Korvenkatu 44",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Aitolahdentie 36",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6164813,
+              "Latitude" : 61.4993242
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "TKL_89"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "29"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1825"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Aitolahdentie 36",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Korvenkatu 44",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6770220,
+              "Latitude" : 61.5087405
+            },
+            "Bearing" : 266.0,
+            "Delay" : "P0Y0M0DT0H1M56.000S",
+            "VehicleRef" : {
+              "value" : "TKL_96"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "6"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1820"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Hatanpään sairaala",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "TAYS",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8691263,
+              "Latitude" : 61.4685922
+            },
+            "Bearing" : 12.0,
+            "Delay" : "P0Y0M0DT0H9M18.000S",
+            "VehicleRef" : {
+              "value" : "TKL_004"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "16"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1830"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Lentävänniemi",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Kiveliönkatu",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7914395,
+              "Latitude" : 61.4997935
+            },
+            "Bearing" : 68.0,
+            "Delay" : "P0Y0M0DT0H1M43.000S",
+            "VehicleRef" : {
+              "value" : "TKL_280"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "16"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1810"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Lentävänniemi",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Kiveliönkatu",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.9133252,
+              "Latitude" : 61.4934192
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H8M18.000S",
+            "VehicleRef" : {
+              "value" : "TKL_027"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "16"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1830"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Kiveliönkatu",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Lentävänniemi",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7471578,
+              "Latitude" : 61.5029888
+            },
+            "Bearing" : 0.0,
+            "Delay" : "-P0Y0M0DT0H0M16.000S",
+            "VehicleRef" : {
+              "value" : "TKL_010"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "18"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1820"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Haukiluoma",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Atala",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8855290,
+              "Latitude" : 61.4966115
+            },
+            "Bearing" : 0.0,
+            "Delay" : "-P0Y0M0DT0H0M15.000S",
+            "VehicleRef" : {
+              "value" : "TKL_240"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "18"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Haukiluoma",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Atala",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7593195,
+              "Latitude" : 61.4975690
+            },
+            "Bearing" : 81.0,
+            "Delay" : "P0Y0M0DT0H2M17.000S",
+            "VehicleRef" : {
+              "value" : "TKL_283"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "18"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1820"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Atala",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Haukiluoma",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6337267,
+              "Latitude" : 61.5043247
+            },
+            "Bearing" : 297.0,
+            "Delay" : "P0Y0M0DT0H0M4.000S",
+            "VehicleRef" : {
+              "value" : "TKL_256"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "10"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1900"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Pispalanharju ",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Järvensivu",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7286005,
+              "Latitude" : 61.4975822
+            },
+            "Bearing" : 91.0,
+            "Delay" : "P0Y0M0DT0H2M1.000S",
+            "VehicleRef" : {
+              "value" : "TKL_660"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "18"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1840"
+            },
+            "OperatorRef" : {
+              "value" : "tkl"
+            },
+            "OriginName" : {
+              "value" : "Atala",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Haukiluoma",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7625490,
+              "Latitude" : 61.4978952
+            },
+            "Bearing" : 259.0,
+            "Delay" : "-P0Y0M0DT0H2M26.000S",
+            "VehicleRef" : {
+              "value" : "tkl_92"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "22"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1845"
+            },
+            "OperatorRef" : {
+              "value" : "Paunu"
+            },
+            "OriginName" : {
+              "value" : "Annala",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori O",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7798422,
+              "Latitude" : 61.4972688
+            },
+            "Bearing" : 358.0,
+            "Delay" : "-P0Y0M0DT0H1M58.000S",
+            "VehicleRef" : {
+              "value" : "Paunu_151"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "21"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Länsitori",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Turtola",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6483885,
+              "Latitude" : 61.5201545
+            },
+            "Bearing" : 61.0,
+            "Delay" : "P0Y0M0DT0H1M50.000S",
+            "VehicleRef" : {
+              "value" : "TKL_011"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "30"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori M",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Etelä-Hervanta",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8610975,
+              "Latitude" : 61.4423710
+            },
+            "Bearing" : 77.0,
+            "Delay" : "P0Y0M0DT0H2M52.000S",
+            "VehicleRef" : {
+              "value" : "TKL_009"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "20"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1845"
+            },
+            "OperatorRef" : {
+              "value" : "LL"
+            },
+            "OriginName" : {
+              "value" : "Hikivuori",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Pikkupalatsi",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8205137,
+              "Latitude" : 61.4953008
+            },
+            "Bearing" : 0.0,
+            "Delay" : "-P0Y0M0DT0H2M41.000S",
+            "VehicleRef" : {
+              "value" : "LL_003"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "22"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1900"
+            },
+            "OperatorRef" : {
+              "value" : "paunu"
+            },
+            "OriginName" : {
+              "value" : "Annala",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori O",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.9112853,
+              "Latitude" : 61.4644913
+            },
+            "Bearing" : 292.0,
+            "Delay" : "P0Y0M0DT0H3M21.000S",
+            "VehicleRef" : {
+              "value" : "paunu_155"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "13"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1800"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Ylöjärvi Matkatie",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hermia",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8694337,
+              "Latitude" : 61.4498345
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H1M49.000S",
+            "VehicleRef" : {
+              "value" : "TKL_271"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248232003,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "90M"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1805"
+            },
+            "OperatorRef" : {
+              "value" : "PAUNU"
+            },
+            "OriginName" : {
+              "value" : "Pyynikintori",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Mäntylä",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8294400,
+              "Latitude" : 61.6909898
+            },
+            "Bearing" : 279.0,
+            "Delay" : "-P0Y0M0DT0H2M7.000S",
+            "VehicleRef" : {
+              "value" : "PAUNU_132"
+            }
+          },
+          "RecordedAtTime" : 1381248202003
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "13"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1810"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Hermia",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Ylöjärvi Matkatie",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6229057,
+              "Latitude" : 61.5257885
+            },
+            "Bearing" : 310.0,
+            "Delay" : "P0Y0M0DT0H0M15.000S",
+            "VehicleRef" : {
+              "value" : "TKL_218"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "2"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "LL"
+            },
+            "OriginName" : {
+              "value" : "Rauhaniemi",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Pyynikintori",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7412823,
+              "Latitude" : 61.4979477
+            },
+            "Bearing" : 0.0,
+            "Delay" : "-P0Y0M0DT0H4M11.000S",
+            "VehicleRef" : {
+              "value" : "LL_15"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "16"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1810"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Kiveliönkatu",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Lentävänniemi",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7067002,
+              "Latitude" : 61.5307542
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H1M19.000S",
+            "VehicleRef" : {
+              "value" : "TKL_257"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "13"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1815"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Ylöjärvi Matkatie",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hermia",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8500990,
+              "Latitude" : 61.4818367
+            },
+            "Bearing" : 185.0,
+            "Delay" : "-P0Y0M0DT0H1M1.000S",
+            "VehicleRef" : {
+              "value" : "TKL_227"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "22"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1845"
+            },
+            "OperatorRef" : {
+              "value" : "Paunu"
+            },
+            "OriginName" : {
+              "value" : "Keskustori O",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Annala",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8734300,
+              "Latitude" : 61.4756673
+            },
+            "Bearing" : 199.0,
+            "Delay" : "P0Y0M0DT0H0M21.000S",
+            "VehicleRef" : {
+              "value" : "Paunu_150"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "15"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1840"
+            },
+            "OperatorRef" : {
+              "value" : "Paunu"
+            },
+            "OriginName" : {
+              "value" : "Kaukajärvi",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori R",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7609003,
+              "Latitude" : 61.4975652
+            },
+            "Bearing" : 180.0,
+            "Delay" : "-P0Y0M0DT0H1M31.000S",
+            "VehicleRef" : {
+              "value" : "Paunu_126"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "15"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "Paunu"
+            },
+            "OriginName" : {
+              "value" : "Keskustori R",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Kaukajärvi",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8113858,
+              "Latitude" : 61.4803448
+            },
+            "Bearing" : 36.0,
+            "Delay" : "P0Y0M0DT0H0M59.000S",
+            "VehicleRef" : {
+              "value" : "Paunu_129"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "21"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1820"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Turtola",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Länsitori",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6388738,
+              "Latitude" : 61.5185477
+            },
+            "Bearing" : 253.0,
+            "Delay" : "P0Y0M0DT0H0M35.000S",
+            "VehicleRef" : {
+              "value" : "TKL_24"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "6"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1820"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "TAYS",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hatanpään sairaala",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7732937,
+              "Latitude" : 61.4760090
+            },
+            "Bearing" : 277.0,
+            "Delay" : "-P0Y0M0DT0H2M32.000S",
+            "VehicleRef" : {
+              "value" : "TKL_006"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "29"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1820"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Korvenkatu 44",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Aitolahdentie 36",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8679637,
+              "Latitude" : 61.4957815
+            },
+            "Bearing" : 52.0,
+            "Delay" : "P0Y0M0DT0H3M21.000S",
+            "VehicleRef" : {
+              "value" : "TKL_005"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "27"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1825"
+            },
+            "OperatorRef" : {
+              "value" : "paunu"
+            },
+            "OriginName" : {
+              "value" : "Ryydynpohja",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Irjala",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8394303,
+              "Latitude" : 61.4949765
+            },
+            "Bearing" : 21.0,
+            "Delay" : "-P0Y0M0DT0H0M24.000S",
+            "VehicleRef" : {
+              "value" : "paunu_156"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "27"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1825"
+            },
+            "OperatorRef" : {
+              "value" : "Paunu"
+            },
+            "OriginName" : {
+              "value" : "Irjala",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Ryydynpohja",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6885423,
+              "Latitude" : 61.5081277
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H2M29.000S",
+            "VehicleRef" : {
+              "value" : "Paunu_153"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "1"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1825"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Pirkkahalli",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Kalkku",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6360872,
+              "Latitude" : 61.5040508
+            },
+            "Bearing" : 278.0,
+            "Delay" : "-P0Y0M0DT0H0M45.000S",
+            "VehicleRef" : {
+              "value" : "TKL_286"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "13"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1825"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Hermia",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Ylöjärvi Matkatie",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6954413,
+              "Latitude" : 61.5068690
+            },
+            "Bearing" : 292.0,
+            "Delay" : "-P0Y0M0DT0H0M8.000S",
+            "VehicleRef" : {
+              "value" : "TKL_91"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "21"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1830"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Länsitori",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Turtola",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7711185,
+              "Latitude" : 61.4913008
+            },
+            "Bearing" : 175.0,
+            "Delay" : "-P0Y0M0DT0H0M1.000S",
+            "VehicleRef" : {
+              "value" : "TKL_253"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "2"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "LL"
+            },
+            "OriginName" : {
+              "value" : "Pyynikintori",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Rauhaniemi",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7794613,
+              "Latitude" : 61.5051275
+            },
+            "Bearing" : 357.0,
+            "Delay" : "P0Y0M0DT0H0M50.000S",
+            "VehicleRef" : {
+              "value" : "LL_16"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "23"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1900"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori N",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Länsi-Hervanta",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7667998,
+              "Latitude" : 61.4981093
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H1M57.000S",
+            "VehicleRef" : {
+              "value" : "TKL_229"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "5"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori I",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hervantakeskus",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8514625,
+              "Latitude" : 61.4418827
+            },
+            "Bearing" : 66.0,
+            "Delay" : "-P0Y0M0DT0H1M39.000S",
+            "VehicleRef" : {
+              "value" : "TKL_003"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "7N"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "paunu"
+            },
+            "OriginName" : {
+              "value" : "Pirkkahalli",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Laatokantie",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7594865,
+              "Latitude" : 61.4976590
+            },
+            "Bearing" : 257.0,
+            "Delay" : "P0Y0M0DT0H0M18.000S",
+            "VehicleRef" : {
+              "value" : "paunu_136"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "5"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "TAYS",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori I",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8062033,
+              "Latitude" : 61.4453885
+            },
+            "Bearing" : 17.0,
+            "Delay" : "-P0Y0M0DT0H0M7.000S",
+            "VehicleRef" : {
+              "value" : "TKL_095"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "7"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "Paunu"
+            },
+            "OriginName" : {
+              "value" : "Laatokantie",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Pirkkahalli",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7702870,
+              "Latitude" : 61.4936948
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M20.000S",
+            "VehicleRef" : {
+              "value" : "Paunu_137"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "29"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Korvenkatu 44",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Aitolahdentie 36",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7998427,
+              "Latitude" : 61.5013858
+            },
+            "Bearing" : 69.0,
+            "Delay" : "-P0Y0M0DT0H0M30.000S",
+            "VehicleRef" : {
+              "value" : "TKL_260"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "13"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Ylöjärvi Matkatie",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hermia",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7372827,
+              "Latitude" : 61.4983017
+            },
+            "Bearing" : 103.0,
+            "Delay" : "-P0Y0M0DT0H0M6.000S",
+            "VehicleRef" : {
+              "value" : "TKL_88"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248229008,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "36"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori C",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Sandvik",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7260767,
+              "Latitude" : 61.4582005
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H25M16.000S",
+            "VehicleRef" : {
+              "value" : "TKL_002"
+            }
+          },
+          "RecordedAtTime" : 1381248199008
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "90M"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1838"
+            },
+            "OperatorRef" : {
+              "value" : "Paunu"
+            },
+            "OriginName" : {
+              "value" : "Mäntylä",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Pyynikintori",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8380222,
+              "Latitude" : 61.6297357
+            },
+            "Bearing" : 0.0,
+            "Delay" : "-P0Y0M0DT0H1M40.000S",
+            "VehicleRef" : {
+              "value" : "Paunu_130"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "20"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1840"
+            },
+            "OperatorRef" : {
+              "value" : "LL"
+            },
+            "OriginName" : {
+              "value" : "Pikkupalatsi",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hikivuori",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8436713,
+              "Latitude" : 61.4627635
+            },
+            "Bearing" : 162.0,
+            "Delay" : "P0Y0M0DT0H0M15.000S",
+            "VehicleRef" : {
+              "value" : "LL_13"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "17"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1840"
+            },
+            "OperatorRef" : {
+              "value" : "LL"
+            },
+            "OriginName" : {
+              "value" : "Juvelankatu",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Pyynikintori",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7858755,
+              "Latitude" : 61.4990658
+            },
+            "Bearing" : 268.0,
+            "Delay" : "-P0Y0M0DT0H1M11.000S",
+            "VehicleRef" : {
+              "value" : "LL_51"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "28"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Sorilan koulu",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori I",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7717255,
+              "Latitude" : 61.4986337
+            },
+            "Bearing" : 234.0,
+            "Delay" : "-P0Y0M0DT0H0M14.000S",
+            "VehicleRef" : {
+              "value" : "TKL_277"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "29"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1840"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Aitolahdentie 36",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Korvenkatu 44",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7584272,
+              "Latitude" : 61.4976028
+            },
+            "Bearing" : 0.0,
+            "Delay" : "-P0Y0M0DT0H1M41.000S",
+            "VehicleRef" : {
+              "value" : "TKL_258"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248228009,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "36"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1835"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7260767,
+              "Latitude" : 61.4582005
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H25M16.000S",
+            "VehicleRef" : {
+              "value" : "TKL_002"
+            }
+          },
+          "RecordedAtTime" : 1381248198009
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "26"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1845"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Multisilta",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Kaarila",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7704417,
+              "Latitude" : 61.4938603
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M21.000S",
+            "VehicleRef" : {
+              "value" : "TKL_001"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "30"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1845"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Etelä-Hervanta",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori M",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8166870,
+              "Latitude" : 61.4876215
+            },
+            "Bearing" : 245.0,
+            "Delay" : "-P0Y0M0DT0H0M10.000S",
+            "VehicleRef" : {
+              "value" : "TKL_247"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248190007,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "3"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Petsamo",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori I",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7609560,
+              "Latitude" : 61.4975210
+            },
+            "Bearing" : 157.0,
+            "Delay" : "-P0Y0M0DT0H1M20.000S",
+            "VehicleRef" : {
+              "value" : "TKL_636"
+            }
+          },
+          "RecordedAtTime" : 1381248160007
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "1"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Kalkku",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Pirkkahalli",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6681272,
+              "Latitude" : 61.5079148
+            },
+            "Bearing" : 86.0,
+            "Delay" : "-P0Y0M0DT0H0M6.000S",
+            "VehicleRef" : {
+              "value" : "TKL_90"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "28"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori G",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Sorilan koulu",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8379363,
+              "Latitude" : 61.5058005
+            },
+            "Bearing" : 93.0,
+            "Delay" : "P0Y0M0DT0H0M6.000S",
+            "VehicleRef" : {
+              "value" : "TKL_427"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "30"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori M",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Etelä-Hervanta",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8429893,
+              "Latitude" : 61.4637197
+            },
+            "Bearing" : 164.0,
+            "Delay" : "-P0Y0M0DT0H1M35.000S",
+            "VehicleRef" : {
+              "value" : "TKL_241"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "1"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Pirkkahalli",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Kalkku",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7714477,
+              "Latitude" : 61.4909768
+            },
+            "Bearing" : 358.0,
+            "Delay" : "-P0Y0M0DT0H3M38.000S",
+            "VehicleRef" : {
+              "value" : "TKL_237"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "21"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1850"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Turtola",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Länsitori",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7625902,
+              "Latitude" : 61.4830803
+            },
+            "Bearing" : 337.0,
+            "Delay" : "-P0Y0M0DT0H1M11.000S",
+            "VehicleRef" : {
+              "value" : "TKL_266"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "17"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "LL"
+            },
+            "OriginName" : {
+              "value" : "Pyynikintori",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Juvelankatu",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7678300,
+              "Latitude" : 61.4982030
+            },
+            "Bearing" : 81.0,
+            "Delay" : "P0Y0M0DT0H1M46.000S",
+            "VehicleRef" : {
+              "value" : "LL_41"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "25"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "OB"
+            },
+            "OriginName" : {
+              "value" : "Tahmela",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Janka",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7431078,
+              "Latitude" : 61.4927752
+            },
+            "Bearing" : 63.0,
+            "Delay" : "P0Y0M0DT0H2M21.000S",
+            "VehicleRef" : {
+              "value" : "OB_13003"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "27"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "PAUNU"
+            },
+            "OriginName" : {
+              "value" : "Ryydynpohja",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Irjala",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6765733,
+              "Latitude" : 61.5128908
+            },
+            "Bearing" : 124.0,
+            "Delay" : "-P0Y0M0DT0H0M9.000S",
+            "VehicleRef" : {
+              "value" : "PAUNU_138"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "12"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Hallila",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori P",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7976197,
+              "Latitude" : 61.4724397
+            },
+            "Bearing" : 294.0,
+            "Delay" : "-P0Y0M0DT0H0M53.000S",
+            "VehicleRef" : {
+              "value" : "TKL_267"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "23"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Länsi-Hervanta",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori N",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8332153,
+              "Latitude" : 61.4776993
+            },
+            "Bearing" : 329.0,
+            "Delay" : "P0Y0M0DT0H0M2.000S",
+            "VehicleRef" : {
+              "value" : "TKL_234"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "12"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori P",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hallila",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7880815,
+              "Latitude" : 61.4838698
+            },
+            "Bearing" : 147.0,
+            "Delay" : "P0Y0M0DT0H0M45.000S",
+            "VehicleRef" : {
+              "value" : "TKL_262"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "27"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "PAUNU"
+            },
+            "OriginName" : {
+              "value" : "Irjala",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Ryydynpohja",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8380623,
+              "Latitude" : 61.4933245
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H1M32.000S",
+            "VehicleRef" : {
+              "value" : "PAUNU_139"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "13"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1855"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Ylöjärvi Matkatie",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hermia",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6128153,
+              "Latitude" : 61.5252645
+            },
+            "Bearing" : 135.0,
+            "Delay" : "P0Y0M0DT0H0M38.000S",
+            "VehicleRef" : {
+              "value" : "TKL_236"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "30"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori M",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Etelä-Hervanta",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7613807,
+              "Latitude" : 61.4975680
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "TKL_026"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "30"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1900"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Etelä-Hervanta",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori M",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8725808,
+              "Latitude" : 61.4444528
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H3M21.000S",
+            "VehicleRef" : {
+              "value" : "TKL_246"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "26"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1900"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Kaarila",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Multisilta",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6740862,
+              "Latitude" : 61.5000642
+            },
+            "Bearing" : 76.0,
+            "Delay" : "P0Y0M0DT0H1M21.000S",
+            "VehicleRef" : {
+              "value" : "TKL_254"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "15"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1900"
+            },
+            "OperatorRef" : {
+              "value" : "paunu"
+            },
+            "OriginName" : {
+              "value" : "Kaukajärvi",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Keskustori R",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8707025,
+              "Latitude" : 61.4736440
+            },
+            "Bearing" : 286.0,
+            "Delay" : "P0Y0M0DT0H1M4.000S",
+            "VehicleRef" : {
+              "value" : "paunu_124"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "22"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1900"
+            },
+            "OperatorRef" : {
+              "value" : "Paunu"
+            },
+            "OriginName" : {
+              "value" : "Keskustori O",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Annala",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7721430,
+              "Latitude" : 61.4986160
+            },
+            "Bearing" : 53.0,
+            "Delay" : "P0Y0M0DT0H0M9.000S",
+            "VehicleRef" : {
+              "value" : "Paunu_152"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "3"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1900"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori I",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Petsamo",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7613610,
+              "Latitude" : 61.4973118
+            },
+            "Bearing" : 109.0,
+            "Delay" : "P0Y0M0DT0H3M18.000S",
+            "VehicleRef" : {
+              "value" : "TKL_663"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "31"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1903"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Pyynikintori",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Korkinmäki",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7428308,
+              "Latitude" : 61.4976650
+            },
+            "Bearing" : 29.0,
+            "Delay" : "P0Y0M0DT0H0M21.000S",
+            "VehicleRef" : {
+              "value" : "TKL_654"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "28"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.9315957,
+              "Latitude" : 61.5552800
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "TKL_245"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "13"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.8716573,
+              "Latitude" : 61.4495572
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "TKL_275"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "90"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "PAUNU"
+            },
+            "OriginName" : {
+              "value" : "Pyynikintori",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Terälahti",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7417625,
+              "Latitude" : 61.4971093
+            },
+            "Bearing" : 109.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "PAUNU_133"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "18"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6068477,
+              "Latitude" : 61.5186128
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "TKL_025"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "7"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "LL"
+            },
+            "OriginName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.6618472,
+              "Latitude" : 61.5550972
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "LL_90"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "7"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "LL"
+            },
+            "OriginName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7328710,
+              "Latitude" : 61.4633548
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "LL_091"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "18"
+            },
+            "DirectionRef" : {
+              "value" : "1"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.9202617,
+              "Latitude" : 61.5079508
+            },
+            "Bearing" : 0.0,
+            "Delay" : "P0Y0M0DT0H0M0.000S",
+            "VehicleRef" : {
+              "value" : "TKL_274"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        }, {
+          "ValidUntilTime" : 1381248233001,
+          "MonitoredVehicleJourney" : {
+            "LineRef" : {
+              "value" : "5"
+            },
+            "DirectionRef" : {
+              "value" : "2"
+            },
+            "FramedVehicleJourneyRef" : {
+              "DataFrameRef" : {
+                "value" : "2013-10-08"
+              },
+              "DatedVehicleJourneyRef" : "1905"
+            },
+            "OperatorRef" : {
+              "value" : "TKL"
+            },
+            "OriginName" : {
+              "value" : "Keskustori I",
+              "lang" : "fi"
+            },
+            "DestinationName" : {
+              "value" : "Hervantakeskus",
+              "lang" : "fi"
+            },
+            "Monitored" : true,
+            "VehicleLocation" : {
+              "Longitude" : 23.7576358,
+              "Latitude" : 61.4992363
+            },
+            "Bearing" : 260.0,
+            "Delay" : "-P0Y0M0DT0H1M40.000S",
+            "VehicleRef" : {
+              "value" : "TKL_659"
+            }
+          },
+          "RecordedAtTime" : 1381248203001
+        } ],
+        "version" : "1.3",
+        "ResponseTimestamp" : 1381248203204,
+        "Status" : true
+      } ]
+    },
+    "version" : "1.3"
+  }
+}
